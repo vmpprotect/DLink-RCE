@@ -13,8 +13,8 @@ The Ping diagnostic page fails to sanitize user input, allowing arbitrary comman
 
 - Vendor: D-Link  
 - Model: DVG-N5402GF  
-- Component: Web UI -> Diagnostics -> Ping  
-
+- Component: Login -> Maintenance -> Diagnostics -> Ping Test
+- Fofa Query: `"D-Link VoIP Wireless Router"`
 ---
 
 ## Vulnerability
