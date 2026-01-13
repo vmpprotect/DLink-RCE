@@ -4,7 +4,7 @@ Credits to [me](https://github.com/vmpprotect) ( finding rce ) and [nitrix](http
 
 ## Summary
 
-An authenticated command injection vulnerability exists in the **:contentReference[oaicite:0]{index=0} DVG-N5402GF** router.  
+An authenticated command injection vulnerability exists in the **DVG-N5402GF** router.  
 The Ping diagnostic page fails to sanitize user input, allowing arbitrary command execution as `root`.
 
 ---
