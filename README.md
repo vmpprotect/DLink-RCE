@@ -1,6 +1,6 @@
 # D-Link DVG-N5402GF – Authenticated RCE
 
-Credits to [me](https://github.com/vmpprotect) ( finding rce ) and [nitrix](https://github.com/nitrixog) ( showing me router and helping out when i was stumped )
+Credits to [me](https://github.com/vmpprotect) ( finding rce ) and [nitrix](https://github.com/prodbyskid) ( showing me router and helping out when i was stumped )
 
 ## Summary
 
